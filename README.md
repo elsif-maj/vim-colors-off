@@ -1,3 +1,5 @@
+MJ: forked for personal use and modification 
+
 # vim-colors-off
 
 For a number of weeks, I ran vim with `syntax off`. It was quite nice, 
